@@ -1,5 +1,5 @@
 ﻿=== Directorist - WordPress Business Directory Plugin with Classified Ads Listings ===
-Contributors: wpWax - WP Business Directory Plugin and Classified Listings Directory
+Contributors: wpwax
 Donate link: https://directorist.com/extensions/
 Tags: member directory, listing, classifieds, directory plugin, business directory
 Requires at least: 4.6
@@ -9,7 +9,7 @@ Stable tag: 7.11.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-A user-centric yet powerful & feature-rich WordPress Directory Plugin to Create Business Directory, Job Listings, Classified Ads, Booking Directory, Local Directory, Service Directory
+A user-centric yet powerful WordPress Business Directory Plugin to create a local business directory, job directory, & Classified Ads Listing
 
 == Description ==
 
